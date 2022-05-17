@@ -11,3 +11,7 @@ Meu Projeto: https://igor-nogueira.github.io/PrimeiroProjeto-MapaDev-Week/
 
 A dinâmica era criar uma tela de personagens da Marvel, porém os professores deram a liberade de personalizarmos como quiséssemos, até mesmo nos incetivaram, com isso fiz o meu com personagem e animes e relembrando um jogo bem antigo de PS2 chamado: DON, alguns são personagens do jogo e outros adicionei por vontade própria!![Projeto Finalizado](https://user-images.githubusercontent.com/87425005/168703128-aeb7cb34-be56-4a0c-8ede-d81ec62df8f6.png)
  
+# Linguagens Usadas:
+HTML
+CSS
+JavaScript
